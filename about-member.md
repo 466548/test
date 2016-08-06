@@ -6,3 +6,8 @@
 ![](images/risa.jpg)  
 副業フリーランスWebデザイナ[りさ（＠rrisa_wp）](https://twitter.com/rrisa_wp)でっす。
 今年は就活しようかなぁと思ったりしています。。。
+
+![](images/matsui.jpg)  
+無職の[まつい（＠zuu_matsui）](https://twitter.com/https://twitter.com/zuu_matsui)でっす。
+今年はあまり働きたくないなぁと思ったりしています。
+動物占いはチーターらしいです。
