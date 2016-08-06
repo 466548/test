@@ -1,6 +1,7 @@
-# test
+# test  
 
-[ABOUT US](about-member.html)
+
+[ABOUT US](about-member.md)
 =======
 
 ##Hello! My name is Risa!
