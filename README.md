@@ -1,8 +1,8 @@
 # test
 
-<<<<<<< HEAD
+
 =======
-<<<<<<< HEAD
+
 ##Hello! My name is Risa!
 =======
 うさぎ愛あふれるWebデザイナ[マッツォ（＠chiichan）](https://twitter.com/chiichan)でっす。
