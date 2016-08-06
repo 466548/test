@@ -1,11 +1,12 @@
 # test  
 
 ##menu  
-
+- [メンバー紹介](about-member.md)
+- [おいしい肉](niku.md)
 
 =======
 =======
-[ABOUT US](about-member.md)
+
 =======
 
 ##Hello! My name is Risa!
