@@ -12,3 +12,5 @@ Kindle Unlimited契約してる人は、 [『Web制作者のためのGitHubの�
     サルかしこすぎるので最初の方はちょっとわかりづらいかも
 * **[Gitの概念の覚え方として郵便局を例えに使った郵便局メソッド](https://speakerdeck.com/yunico/20140601-github-kaigi-yunico)**  
     用語を学ぶ上で、すごくわかりやすいです
+
+**[WordBench山梨の立ち上げとノンプログラマ向けGitHubのおはなし](http://www.slideshare.net/natsumiine/wordbenchgithub)**  
