@@ -5,9 +5,9 @@
     バージョン管理ツール
 
 * **Github**  
-    オンライン上でGitが使えるwebサービス
-    Github以外にも[Bitbucket](https://bitbucket.org/)というのもあります。  
-    私は公開したくない個人リポジトリはここに置いてます
+    オンライン上でGitが使えるwebサービス  
+    Github以外にも[Bitbucket](https://bitbucket.org/)というのもあります  
+    私は公開したくない個人リポジトリはBitbucketの方に置いてます
 
 * **クローン**  
     リモートリポジトリを自分のPCにダウンロードしてくること
