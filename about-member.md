@@ -8,6 +8,6 @@
 今年は就活しようかなぁと思ったりしています。。。
 
 ![](images/matsui.jpg)  
-無職の[まつい（＠zuu_matsui）](https://twitter.com/https://twitter.com/zuu_matsui)でっす。
-今年はあまり働きたくないなぁと思ったりしています。
+無職の[まつい（＠zuu_matsui）](https://twitter.com/https://twitter.com/zuu_matsui)でっす。  
+今年はあまり働きたくないなぁと思ったりしています。  
 動物占いはチーターらしいです。
